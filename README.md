@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Full stack development**
 
 - 📫 How to reach me **sudhanshusingh55955@gmail.com**
 
